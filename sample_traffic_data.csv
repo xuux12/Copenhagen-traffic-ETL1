@@ -1,0 +1,5 @@
+timestamp,location,latitude,longitude,traffic_speed,congestion_level
+2024-01-01 08:00,Copenhagen Central,55.6759,12.5655,30,2
+2024-01-01 08:05,Copenhagen Central,55.6759,12.5655,25,3
+2024-01-01 08:10,Copenhagen Central,55.6759,12.5655,20,4
+2024-01-01 08:15,Copenhagen North,55.7000,12.5600,35,1
